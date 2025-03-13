@@ -1,0 +1,4 @@
+# Created by cloud-init v. 24.4-0ubuntu1~20.04.1 on Mon, 10 Mar 2025 08:55:11 +0000
+
+# User rules for vvkanivets
+vvkanivets ALL=(ALL) NOPASSWD:ALL
